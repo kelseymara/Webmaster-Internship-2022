@@ -30,6 +30,7 @@ Colored Pencils <br />
 
 <br />
 Here is a snippet of the after code:
+
 ```html
 <ul style="list-style-type:none;">
 <li>#2 Pencils</li>
