@@ -17,6 +17,8 @@ This is the first full week of my internship. I met my supervisor and the 2 divi
 One thing I am doing for the websites is editing the pages to make it more readable to a screenreader and more ADA accessible. 
 For example, for the school supplies list pages for each website, the HTML has one pargraph with a break between each item to position it on the next line. Although this looks fine without looking at the HTML code, it would be more ADA accesible if it is coded using an actual list attribute. I changed the school supplies page for each of my assigned school websites. 
 Here is a snippet of the before code:
+<br />
+
 ``html
 <p>
 #2 Pencils <br />
@@ -25,6 +27,7 @@ Here is a snippet of the before code:
 Blunt-Tipped Scissors <br />
 Colored Pencils <br />
 ``
+
 <br />
 Here is a snippet of the after code:
 ``html
