@@ -27,12 +27,11 @@ Colored Pencils <br />
 ``
 <br />
 Here is a snippet of the after code:
-`` html
+``html
 <ul style="list-style-type:none;">
 <li>#2 Pencils</li>
 <li>3-inch Binder</li>
 <li>Blunt-Tipped Scissors</li>
 <li>Colored Pencils</li>
 </ul
-
 ``
