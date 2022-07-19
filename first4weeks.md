@@ -19,22 +19,22 @@ For example, for the school supplies list pages for each website, the HTML has o
 Here is a snippet of the before code:
 <br />
 
-``html
+```html
 <p>
 #2 Pencils <br />
 3-inch Binder <br />
 3 Ruled Index Cards <br />
 Blunt-Tipped Scissors <br />
 Colored Pencils <br />
-``
+```
 
 <br />
 Here is a snippet of the after code:
-``html
+```html
 <ul style="list-style-type:none;">
 <li>#2 Pencils</li>
 <li>3-inch Binder</li>
 <li>Blunt-Tipped Scissors</li>
 <li>Colored Pencils</li>
 </ul
-``
+```
