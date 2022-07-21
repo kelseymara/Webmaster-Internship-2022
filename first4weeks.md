@@ -5,7 +5,8 @@
 I have two days of orientation and career-readiness training this week that consists of various workshops and trainings that prepared and provided me with general skills needed to succed in the workforce. Some of these topics included financial literacy and development of professional goals. Unfortunately, I was only able to attend one day because I was sick. I met some of the other interns who will be working with me and I intitiated creating a discord group chat.
 
 ## Week Two 
-This is the first full week of my internship. I met my supervisor and the 2 division webmasters. We got assigned onboarding training modules that are build into the educational content management system they use. One thing my supervisor emphasized was how important it is for the website to be Americans with Disabilities Act (ADA) Compliant. There is an Accessibility Checker tool built into the content management system that we have to use whenever we create content.
+This is the first full week of my internship. I met my supervisor and the 2 division webmasters. We got assigned onboarding training modules that are built into the educational content management system they use. These modules provided an overview of how to use different features included in the content management system such as content elements and layout elements. 
+One thing my supervisor emphasized was how important it is for the website to be Americans with Disabilities Act (ADA) Compliant. There is an Accessibility Checker tool built into the content management system that we have to use whenever we create content. 
 
 ## Week Three
 The school division webmasters assigned the 12 schools we will be working on throughout the internship in a shared Google Sheets. The Google Sheets is an Intern Work Assignment Tracker where we have to document what day we started and completed each website, along with comments about each website. 
@@ -38,7 +39,7 @@ Here is a snippet of the before code:
 3-inch Binder <br />
 3 Ruled Index Cards <br />
 Blunt-Tipped Scissors <br />
-Colored Pencils <br />
+Colored Pencils </p>
 ```
 Here is a snippet of the after code:
 ```html
