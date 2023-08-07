@@ -14,5 +14,6 @@ Utilized the HTML tool within the CMS to create customized elements and template
 
 - Collaborated closely with school division webmasters and interns to ensure ADA compliance and meet school division requirements.
 
-  
-🚀 This internship has been an invaluable journey, providing me with my first hands-on experience in the tech industry beyond academia. Contributing to my local school division, where I grew up, added a profound sense of fulfillment to the process.
+## Final Thoughts
+
+- This internship has been an invaluable journey, providing me with my first hands-on experience in the tech industry beyond academia. Contributing to my local school division, where I grew up, added a profound sense of fulfillment to the process.
