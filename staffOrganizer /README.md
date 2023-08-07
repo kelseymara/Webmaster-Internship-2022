@@ -1,10 +1,15 @@
-I used custom HTML and CSS code to create tables for the Our Staff Page for each school website I was working on. After inputting the code, I had 
-to manually create a row for each staff member. After creating rows for fifteen minutes, I realized how tedious the task was.
-I wanted to make this process go by a lot faster, so I coded a short program in C++ 
-(language I am most familiar with) that takes an input file of a list of the staff members and outputs it into the correct 
-HTML table format with each name, position, and extension in each row. 
-Here is part of my code that loops through the file and stores the name, position, and extension in separate variables that are 
-separated by a comma in the input file. The rest of the code for the program can be found in this same folder. 
+# Table Creation Project
+
+## Overview
+During my webmaster internship, I encountered the repetitive task of manually creating custom HTML tables for the "Our Staff" page on school websites. To make this process more efficient, I took the initiative to develop a C++ program that automates table creation based on staff information provided in an input file.  The program's code can be found in the same folder as this README.
+
+## Table Generation Process
+
+### Input File Format
+To use the program, I expect an input file formatted with staff information separated by commas. Each line of the file represents one staff member's details, following the structure: Name,Position,Extension.
+
+### Code Snippet
+The core logic of the program is shown in the provided code snippet. Utilizing C++, I read the input file, extracted staff information, and stored it in separate variables. The data was then organized into a vector, which served as the foundation for generating the HTML table.
 ```HTML
 while(!infile.eof())
     {
