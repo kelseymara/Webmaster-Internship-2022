@@ -1,6 +1,6 @@
 During summer 2022, I was a webmaster intern for my local school divsion. We had a project to recreate all of their school websites to create a cohesive layout. 
 This was done by using an educational content management system (CMS). Although I used a CMS to create the
-websites, I still managed to pick up some web master knowledge and some basic HTML and CSS along the way.
+websites, I still managed to pick up some webmaster knowledge and some basic HTML and CSS along the way.
 
 
 One thing my supervisor stressed throughout the internship is how important it is for the websites to be ADA accessible because they 
@@ -46,6 +46,6 @@ Here is a snippet of the after code:
 <h2>Overview</h2>
 <h3>Philosophy and Mission Statement</h3>
 ```
-Errors such as these were things I fixed throughout the summer. I worked closely with the school divsiion masters and 
+Errors such as these were things I fixed throughout the summer. I worked closely with the school divsiion webmasters and 
 other interns to make sure my work matched all the ADA compliance and school divsion requirements. Every week we got assigned more tasks, such as updating the staff page with a custom HTML and CSS table
 containing all the new teachers. All of these tasks contributed to the objective of creating a cohesiveness layout across all pages. 
