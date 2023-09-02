@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During summer 2022, I was a webmaster intern for my local school divsion. We had a project to recreate all of their school websites to create a cohesive layout. This was done by using an educational content management system (CMS), which allowed for efficient website management and updates.. 
+During summer 2022, I was a webmaster intern for my local school divsion. We had a project to recreate all of their school websites to create a cohesive layout. This was done by using an educational content management system (CMS), which allowed for efficient website management and updates.
 
 ## Learning Experience 📚
 Although the websites were built using a CMS, I took the initiative to acquire additional webmaster knowledge and improve my skills in HTML and CSS. I found immense value in utilizing the built-in HTML tool, which allowed me to make direct modifications to the website's code.
